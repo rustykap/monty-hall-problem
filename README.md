@@ -1,2 +1,2 @@
-# bday_prob
+# monty hall problem
 python code to demonstrate counterintuitive 
