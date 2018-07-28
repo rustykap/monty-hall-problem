@@ -1,2 +1,2 @@
 # monty hall problem
-python code to demonstrate counterintuitive 
+python code to demonstrate counterintuitive logic
